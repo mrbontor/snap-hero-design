@@ -110,14 +110,14 @@
 
 @media screen and (min-width: 1440px) {
     .snap__header-main {
-        padding: 2rem 8rem
+        padding: 2rem 11rem
     }
 }
 
 
 @media screen and (min-width: 1580px) {
     .snap__header-main {
-        padding: 2rem 12rem;
+        padding: 2rem 17rem
     }
 }
 
