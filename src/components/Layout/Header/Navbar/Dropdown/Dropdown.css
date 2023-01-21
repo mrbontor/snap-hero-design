@@ -1,0 +1,36 @@
+.snap__dropdown {
+    background: var(--color-menu);
+    top: var(--header-heigth);
+    white-space: nowrap;
+    margin: 1rem;
+}
+
+.snap__dropdown-item {
+    text-align: left;
+    padding: 0.5rem;
+}
+
+.snap__dropdown-item  a {
+    text-decoration: none;
+    color: inherit;
+}
+.snap__dropdown-item  span {
+    padding-right: 1rem;
+}
+
+.snap__dropdown a:hover {
+    color: var(--color-text-darker)
+}
+
+@media screen and (min-width: 768px) {
+    .snap__dropdown {
+        min-width: 100%;
+        position: absolute;
+        background: var(--color-menu);
+        margin: -3rem;
+
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+        border-radius: 0.5rem;
+        padding: 0.5rem  0 0.5rem 0.5rem
+    }    
+}

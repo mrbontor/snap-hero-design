@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+  --font-family: 'Epilogue', sans-serif;
+  --font-md: 18px;
+  --font-lg: 22px;
+  --text-normal: 500;
+  --text-bold: 700;
+
+  --color-bg:  hsl(0,0%,94.04%);
+
+  --color-draw: rgba(111, 126, 115, 0.86);
+  --color-text-darker: #141414;
+  --color-button-dark: #151515;
+  --color-text-light: #696969;
+  --color-menu : #FFFFFF;
+
+  --header-heigth: 5rem;
+}
+
