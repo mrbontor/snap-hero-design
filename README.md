@@ -21,4 +21,8 @@ $ npm run start
 Note: default port is `3000`
 
 
+the output of the design can be look at
+
+https://snap-hero-design-ht96b63gh-mrbontor.vercel.app/#
+
 [Back to top](#reactjs-snap-hero-design)
