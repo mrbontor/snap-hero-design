@@ -23,6 +23,6 @@ Note: default port is `3000`
 
 the output of the design can be look at
 
-https://snap-hero-design-qj9jq0p6l-mrbontor.vercel.app/
+[https://snap-hero-design.vercel.app/](https://snap-hero-design.vercel.app/)
 
 [Back to top](#reactjs-snap-hero-design)

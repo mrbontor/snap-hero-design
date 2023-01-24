@@ -122,8 +122,8 @@
         text-align: left;
     }
     .snap__home-content__brand ul {
-        flex: 1;
-        align-items: left;
+        align-items: center;
+        justify-content: space-between;
     }
 
     .snap__home-image {
@@ -137,7 +137,7 @@
         margin-top: 5rem;
     }
     .snap__home-content__brand {
-       margin-top: 6rem;
+        margin-top: 6rem;
         width: 100%;
     }
 }
